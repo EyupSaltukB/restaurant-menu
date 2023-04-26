@@ -15,6 +15,10 @@ HTML ,CSS ve JS kullanıldı.
 
 <h4> Video </h4>
 
+
+https://user-images.githubusercontent.com/129687853/234436967-d47e402f-491b-43e2-a67f-f7c82f32b5dc.mp4
+
+
 <h4> GIF </h4>
 
 ![](food.gif)
