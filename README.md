@@ -1,6 +1,6 @@
 <h1>Restaurant Menü</h1>
 
-Restaurant menü projem statik yapıdadır ufak da olsa js ile dinamizm katılmıştır.
+Restaurant menü projem statik yapıdadır küçük miktarda javascript ile dinamizm katılmıştır.
 
 <h2> Kullanılan Teknolojiler</h2>
 
